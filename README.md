@@ -11,3 +11,4 @@
 | 09.09.2024 | 4 | Фрактальное сжатие | [Слайды](https://github.com/Video-Group-Courses/autumn-bachelor-course/tree/2024-2025/04-lecture) | [Запись](https://www.youtube.com/watch?v=9awNYpCAg84&list=PLhe7c-LCgl4IgY0a3RPwCt-YwL-dPxLvb&index=1) | --- |
 | 16.09.2024 | 5 | JPEG&JPEG2000 | [Слайды](https://github.com/Video-Group-Courses/autumn-bachelor-course/tree/2024-2025/05-lecture) | [Запись](https://www.youtube.com/watch?v=rIC3IvpJTd4&list=PLhe7c-LCgl4IgY0a3RPwCt-YwL-dPxLvb&index=1) | --- |
 | 23.09.2024 | 6 | Современные методы повышения разрешения | [Слайды](https://github.com/Video-Group-Courses/autumn-bachelor-course/tree/2024-2025/06-lecture) | [Запись](https://youtu.be/9dAI8d__Dfc?si=aGLWP_xmZWaYe733) | --- |
+| 30.09.2024 | 7 | Метрики и артефакты Super-Resolution | [Слайды](https://github.com/Video-Group-Courses/autumn-bachelor-course/tree/2024-2025/07-lecture) | --- | --- |
